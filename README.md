@@ -2,7 +2,6 @@
 
 <div align="center">
   
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aurchond.aurchond)](https://github.com/aurchond)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aurchond)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:aurchond@gmail.com)
 
