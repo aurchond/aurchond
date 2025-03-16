@@ -60,6 +60,18 @@ I'm a Software Engineer at Autodesk with a passion for creating robust, user-fri
 
 </div>
 
+## 🚀 Featured Projects
+
+- [**KitchenBuddies**](https://github.com/aurchond/KitchenBuddies) - . A smart kitchen management system developed for my UWaterloo Engineering Fourth Year Design Project. `Java`
+
+- [**Wordle Infinity**](https://github.com/aurchond/wordle-infinity) - Endless word-guessing game inspired by Wordle - Challenge yourself with unlimited rounds! `JavaScript`
+
+- [**Amsterdam AirBnB Price Predictor**](https://github.com/aurchond/amsterdam-airbnb-price-predictor) - ML model that predicts AirBnB prices in Amsterdam using supervised learning techniques. `Python/Jupyter Notebook`
+
+- [**London Crime Central**](https://github.com/aurchond/london-crime-central) - Web application analyzing crime data across London boroughs - Final project from ECE 356: Databases course. `TypeScript/Node.js`
+
+- [**MediTrack**](https://github.com/aurchond/meditrack) - Medical health tracking Android application developed as part of ECE 452 coursework. `Kotlin`
+
 ## 😎 Fun Facts
 
 - 🥋 I have a black belt in Taekwondo.
